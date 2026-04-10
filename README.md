@@ -105,18 +105,18 @@ Interactive visualization of patient risk analytics.
 
 | Model               | Score     |
 | ------------------- | --------- |
-| Logistic Regression | 0.757     |
-| Random Forest       | **0.781** |
-| XGBoost             | 0.769     |
+| Logistic Regression | 0.763     |
+| Random Forest       | **0.783** |
+| XGBoost             | 0.771     |
 
 **Best Model → Random Forest**
 
 Final Metrics:
 
-Accuracy → 72%
-Recall → 67%
-F1 → 45%
-ROC‑AUC → 70%
+Accuracy → 75%
+Recall → 55%
+F1 → 44%
+ROC‑AUC → 67%
 
 Top Risk Factors:
 
@@ -197,7 +197,7 @@ This project demonstrates how ML can evolve into a **clinical‑grade healthcare
 
 ## 👨‍💻 Author
 
-**Teja Chaudhari**
+**Bhuva Manoj**
 Focus: Healthcare AI • Predictive Analytics • Clinical AI Systems
 
 ---
